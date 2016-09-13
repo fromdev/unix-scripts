@@ -1,0 +1,1 @@
+mvn clean install -Dmaven.test.skip=true -Dcobertura.skip -DskipTests=true -DhaltOnFailure=false -U
